@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rockpapersccisors</string>
+    <string name="action_settings">Settings</string>
+    <string name="result1">Result</string>
+    <string name="elephant_button_string">Play Elephant</string>
+    <string name="lion_button_string">Play Lion</string>
+    <string name="tiger_button_string">Play Tiger</string>
+    <string name="leopard_button_string">Play Leopard</string>
+    <string name="wolf_button_string">Play Wolf</string>
+    <string name="cat_button_string">Play Cat</string>
+    <string name="mouse_button_string">Play Mouse</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="player">Player score</string>
+    <string name="computer">Computer score</string>
+
+</resources>
